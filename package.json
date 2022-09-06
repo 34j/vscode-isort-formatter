@@ -2,7 +2,7 @@
     "name": "isort-formatter",
     "displayName": "isort Formatter",
     "description": "Sort Python imports using isort.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "icon": "image/icon.png",
     "preview": false,
     "serverInfo": {
@@ -11,13 +11,13 @@
     },
     "publisher": "mikoz",
     "license": "MIT",
-    "homepage": "https://github.com/{cookiecutter.github_user_name}}/vscode-isort-formatter",
+    "homepage": "https://github.com/34j/vscode-isort-formatter",
     "repository": {
         "type": "git",
-        "url": "https://github.com/{cookiecutter.github_user_name}}/vscode-isort-formatter.git"
+        "url": "https://github.com/34j/vscode-isort-formatter.git"
     },
     "bugs": {
-        "url": "https://github.com/{cookiecutter.github_user_name}}/vscode-isort-formatter/issues"
+        "url": "https://github.com/34j/vscode-isort-formatter/issues"
     },
     "galleryBanner": {
         "color": "#1e415e",

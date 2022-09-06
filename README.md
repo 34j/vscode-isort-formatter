@@ -1,7 +1,7 @@
 
 # VSCode Extension for isort
 
-[![GitHub](https://img.shields.io/github/license/34j/vscode-isort-formatter?logo=github&logoColor=%23181717)](https://github.com/{cookiecutter.github_user_name}}/vscode-isort-formatter)
+[![GitHub](https://img.shields.io/github/license/34j/vscode-isort-formatter?logo=github&logoColor=%23181717)](https://github.com/34j/vscode-isort-formatter)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/mikoz.isort-formatter?logo=visual-studio-code&logoColor=%23007ACC)](https://marketplace.visualstudio.com/items?itemName=mikoz.isort-formatter)
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/mikoz.isort-formatter)](https://marketplace.visualstudio.com/items?itemName=mikoz.isort-formatter)
 
