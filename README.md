@@ -23,15 +23,15 @@ Consider using [Composite Formatter](https://marketplace.visualstudio.com/items?
 
 |Name|Description|
 |----|-----------|
-|`isort.logLevel`| The log level the extension logs at, defaults to 'error'.|
-| `isort.args`| Additional arguments passed in. Each argument is a separate item in the array.|
-| `isort.path`| When set to a path to isort binary, extension will use that. NOTE: Using this option may slowdown server response time.|
-| `isort.importStrategy`| Defines where `isort` is imported from. This setting may be ignored if `isort.path` is set.|
-| `isort.interpreter`| When set to a path to python executable, extension will use that to launch the server and any subprocess.|
-| `isort.showNotification`| Controls when notifications are shown by this extension.|
+|`isort-formatter.logLevel`| The log level the extension logs at, defaults to 'error'.|
+| `isort-formatter.args`| Additional arguments passed in. Each argument is a separate item in the array.|
+| `isort-formatter.path`| When set to a path to isort binary, extension will use that. NOTE: Using this option may slowdown server response time.|
+| `isort-formatter.importStrategy`| Defines where `isort` is imported from. This setting may be ignored if `isort-formatter.path` is set.|
+| `isort-formatter.interpreter`| When set to a path to python executable, extension will use that to launch the server and any subprocess.|
+| `isort-formatter.showNotification`| Controls when notifications are shown by this extension.|
 
 ## Extension Commands
 
-`isort: Restart Server`: Restart Server.
+`isort-formatter: Restart Server`: Restart Server.
 
 <!--## Known Issues-->
